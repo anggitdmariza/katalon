@@ -27,3 +27,5 @@ WebUI.verifyElementVisible(findTestObject('b. Footer/footer_background'))
 
 WebUI.verifyElementVisible(findTestObject('b. Footer/footer_rights_message'))
 
+WebUI.refresh()
+
